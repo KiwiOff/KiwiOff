@@ -18,29 +18,8 @@ Focused on building web applications and currently learning Machine Learning.
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,sql&theme=dark" />
-</p>
-
-### ⚙️ Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express&theme=dark" />
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,flask,django,nodejs,express,react,postgres,mysql,git&theme=dark" />
 </p>
 
 ---
